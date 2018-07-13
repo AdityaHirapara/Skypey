@@ -8,6 +8,7 @@
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-scripts": "1.1.4",
+    "redux": "^4.0.0",
     "shortid": "^2.2.12",
     "txtgen": "^2.2.2"
   },
