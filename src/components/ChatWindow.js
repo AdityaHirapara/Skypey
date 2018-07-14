@@ -2,6 +2,7 @@ import React from "react";
 import store from "../store";
 import Header from "../components/Header";
 import Chats from "../components/Chats";
+import "./ChatWindow.css";
 import _ from "lodash";
 
 const ChatWindow = ({ activeUserId }) => {
