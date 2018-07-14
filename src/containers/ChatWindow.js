@@ -2,7 +2,7 @@ import React from "react";
 import store from "../store";
 import Header from "../components/Header";
 import Chats from "../components/Chats";
-import MessageInput from "../containers/MessageInput";
+import MessageInput from "./MessageInput";
 import "./ChatWindow.css";
 import _ from "lodash";
 
